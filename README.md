@@ -1,1 +1,1 @@
-AI-Powered Resume Analyzer
+An attempt of an AI-Powered Resume Analyzer
